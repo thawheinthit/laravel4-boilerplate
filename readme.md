@@ -1,12 +1,10 @@
 ## Laravel 4 CURD and API BoilerPlate Code with Bootstrap 3
 
-This project includes Laravel 4 web application framework
+This project uses Laravel 4 web application framework and Bootstrap 3. Already written CURD sample code and CURD Restful service.
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, and caching.
+If you want to use as Rest Client, it has Guzzle PHP Rest Client in order to use web services easily. 
 
-Laravel aims to make the development process a pleasing one for the developer without sacrificing application functionality. Happy developers make the best code. To this end, we've attempted to combine the very best of what we have seen in other web frameworks, including frameworks implemented in other languages, such as Ruby on Rails, ASP.NET MVC, and Sinatra.
-
-Laravel is accessible, yet powerful, providing powerful tools needed for large, robust applications. A superb inversion of control container, expressive migration system, and tightly integrated unit testing support give you the tools you need to build any application with which you are tasked.
+It has Ways Generator for generating Resourse, Model, Views and Controller from CLI.
 
 
 ### Contributing To Laravel
