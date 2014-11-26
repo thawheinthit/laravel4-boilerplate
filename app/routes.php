@@ -14,9 +14,10 @@ Route::group(array('prefix' => 'api'), function() {
 
 /*
 |--------------------------------------------------------------------------
-| Application Routes // Can't access without authentication
+| Application Routes // Can't access without authentication added
 |--------------------------------------------------------------------------
 */
+
 
 Route::group(array('before' => 'auth'), function() {
     Route::controllers(
